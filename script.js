@@ -65,7 +65,7 @@ function createFood() {
 }
 
 function drawFood() {
-  drawBlock(food, "green");
+  drawBlock(food, "lime");
 }
 
 function moveSnake() {
