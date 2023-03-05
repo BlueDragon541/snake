@@ -2,7 +2,6 @@ body {
   display: grid;
   place-content: center;
   text-align: center;
-  background: blue
 }
 
 #game-area {
